@@ -4,11 +4,11 @@ A lightweight and easy-to-use audio player component for ReactJS applications. T
 
 ## Features
 
-• Simple and easy to use
-• Lightweight and fast
-• Customizable controls
-• Responsive design
-• Easy to integrate and use
+    • Simple and easy to use
+    • Lightweight and fast
+    • Customizable controls
+    • Responsive design
+    • Easy to integrate and use
 
 ## Installation
 
@@ -60,15 +60,15 @@ export default App;
 
 ## Props
 
-• tracks (array): List of tracks to play. Each track should be an object with src and title properties.
-• trackTitle (string): Title of the current track.
-• cover (boolean): Cover image for the current track.
-• progressBar (boolean): Show or hide the progress bar.
-• timeTrack (boolean): Show or hide the timer.
-• navigator (boolean): Show or hide the navigation buttons.
-• navigationButton (array): Set custom navigation button. First one for previous and second one for next.
-• playButton (string || React.Node): Set custom play button.
-• pauseButton (string || React.Node): Set custom pause button.
+    • tracks (array): List of tracks to play. Each track should be an object with src and title properties.
+    • trackTitle (string): Title of the current track.
+    • cover (boolean): Cover image for the current track.
+    • progressBar (boolean): Show or hide the progress bar.
+    • timeTrack (boolean): Show or hide the timer.
+    • navigator (boolean): Show or hide the navigation buttons.
+    • navigationButton (array): Set custom navigation button. First one for previous and second one for next.
+    • playButton (string || React.Node): Set custom play button.
+    • pauseButton (string || React.Node): Set custom pause button.
 
 ## Customization
 
