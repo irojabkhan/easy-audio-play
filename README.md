@@ -58,6 +58,10 @@ function App() {
 export default App;
 ```
 
+## Demo
+
+[Example Project](https://audio-player.rojab.me/)
+
 ## Props
 
     • tracks (array): List of tracks to play. Each track should be an object with src and title properties.

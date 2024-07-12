@@ -1,6 +1,6 @@
 {
   "name": "easy-audio-play",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight and easy-to-use audio player for React applications. This package provides a straightforward and efficient way to integrate audio playback into your React projects.",
   "main": "./build/index.js",
   "scripts": {
